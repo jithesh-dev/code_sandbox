@@ -30,7 +30,8 @@ python manage.py runserver
 #make migrartions
 python manage.py makemigrations leads #where leads is foldername
 
-
-
 #migrate
 python manage.py migrate 
+
+#shorten terminal path
+PROMPT_DIRTRIM=3
