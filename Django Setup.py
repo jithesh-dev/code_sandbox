@@ -21,6 +21,11 @@ pip install django
 #create project
 django-admin startproject leadmanager
 
+# Start pages app
+python manage.py startapp pages
+
+# run server
+python manage.py runserver
 
 #make migrartions
 python manage.py makemigrations leads #where leads is foldername
