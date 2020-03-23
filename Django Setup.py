@@ -11,6 +11,7 @@ python3 -m venv ./venv
 
 # Venv activate
 source ./venv/bin/activate
+source venv/Scripts/activate (windows)
 
 # Venv Deactivate
 deactivte
