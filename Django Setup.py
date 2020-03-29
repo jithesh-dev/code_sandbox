@@ -36,3 +36,6 @@ python manage.py migrate
 
 #shorten terminal path
 PROMPT_DIRTRIM=3
+
+# Pluggin for number to text and currency representation
+humanize
